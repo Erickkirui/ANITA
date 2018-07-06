@@ -1,0 +1,13 @@
+.center{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.background{
+    background-image: url("/home/erick/Documents/project-2/image/landing.jpg");
+
+}
+.float  {
+  float: left;
+}
