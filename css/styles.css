@@ -42,7 +42,7 @@
   padding-right: 200px;
 }
 .one:Hover{
-  font-size: 25px;
+  font-size: 20px;
   background-color: orange;
 }
 .two:Hover{
@@ -60,6 +60,12 @@
   align: center;
 }
 .back{
-  margin-left: 200px;
-  
+    background-image: url("/home/erick/Documents/project-2/image/foodsBg.jpg");
+background-image: 100%;
+}
+.form{
+  background-color: white;
+}
+#form{
+  margin-left: 150px;
 }
