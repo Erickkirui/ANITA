@@ -47,3 +47,10 @@
   font-size: 30px;
   background-color: orange;
 }
+#drinks{
+    border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 20px;
+  box-shadow: 0 0 10px 10px #F2F2F2
+
+}
