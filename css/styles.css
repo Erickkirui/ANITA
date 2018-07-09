@@ -109,6 +109,17 @@
   text-align: center;
   margin-top: 30px;
 }
-.border{
-  
+#border{
+  border-style: solid;
+  border-color: white;
+  border-left-width: 20px;
+  box-shadow: 0 0 10px 10px;
+  margin-top:50px;
+  margin-bottom: 100px;
+  padding-left: 100px;
+  margin-;
+}
+.email{
+  background-image: url("/home/erick/Documents/project-2/image/subscribe.jpg");
+  margin-bottom: 100px;
 }
