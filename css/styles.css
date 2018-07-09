@@ -3,6 +3,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    text-align: center;
 }
 .background{
     background-image: url("/home/erick/Documents/project-2/image/landing.jpg");
@@ -34,6 +35,7 @@
   float: left;
   font-size: 12px;
 }
+
 .ipsum{
   float: right;
   font-size: 13px;
@@ -53,4 +55,11 @@
   border-width: 20px;
   box-shadow: 0 0 10px 10px #F2F2F2
 
+}
+.place{
+  align: center;
+}
+.back{
+  margin-left: 200px;
+  
 }
