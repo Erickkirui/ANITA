@@ -11,29 +11,39 @@
 .float  {
   float: left;
 }
-h4{
-  font-size: 0px;
-
-}
 .size{
   margin-top: -10px;
 }
 .happy{
   align-items: center;
-  background-color: red;
   height:100px;
   margin-right: 120px;
 }
 .move{
   margin-top: -10px;
 }
+
+
+#firstfood{
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 20px;
+  box-shadow: 0 0 10px 10px #F2F2F2;
+}
 .lorem{
   float: left;
   font-size: 12px;
-  padding-left: 350px;
 }
 .ipsum{
   float: right;
   font-size: 13px;
-  padding-right: 350px;
+  padding-right: 200px;
+}
+.one:Hover{
+  font-size: 25px;
+  background-color: orange;
+}
+.two:Hover{
+  font-size: 30px;
+  background-color: orange;
 }
