@@ -64,8 +64,8 @@
 }
 .form{
   background-color: white;
-  padding-bottom: 2em;
-  padding-top: 2em;
+  padding-bottom: 9px;
+  padding-top: 9px;
 
 }
 #form{
@@ -103,4 +103,7 @@
 }
 .col-md-4{
   padding-left: 10%
+}
+.red{
+  color: red;
 }
