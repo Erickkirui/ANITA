@@ -61,32 +61,46 @@
 }
 .back{
     background-image: url("/home/erick/Documents/project-2/image/foodsBg.jpg");
-background-image: 100%;
 }
 .form{
   background-color: white;
+  padding-bottom: 2em;
+  padding-top: 2em;
+
 }
 #form{
-  margin-left: 150px;
+  margin-left: 80px;
+  margin-right:100px ;
+
+
 }
 .topnav {
     background-color: lightgrey;
     overflow: hidden;
-    margin-right: 100px ;
+    margin-top: 30px;
+
   }
   .topnav a {
     float: left;
-    color: grey;
-    text-align: center;
-    padding: 14px 16px;
+    color: black;
+    text-align: left;
+    padding: 10px  90px;
     text-decoration: black;
-    font-size: 17px;
+    font-size: 18px;
+    height: 70%
   }
   .topnav a:hover {
-    background-color: #ddd;
-      color: lightgrey;
+    background-color:  white;
+      color: red;
     }
     .topnav a.active {
-    background-color:lightgrey;
-    color: white;
+    background-color:white;
+    color: red;
   }
+.scoot{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.col-md-4{
+  padding-left: 10%
+}
