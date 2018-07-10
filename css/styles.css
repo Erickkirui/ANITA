@@ -5,15 +5,32 @@
     width: 50%;
     text-align: center;
 }
-.background{
-    background-image: url("/home/erick/Documents/project-2/image/landing.jpg");
+.text{
+font-size: 21px;
+}
 
 }
+.stage{
+  background-image: url("/home/erick/Documents/project-2/image/landing.jpg");
+  margin-bottom: 10em;
+}
+.size{
+  margin-bottom: 10em;
+}
+
+.space{
+  margin-top: 18em;
+}
+.margin{
+    margin-top: 5em;
+
+}
+
 .float  {
   float: left;
 }
-.size{
-  margin-top: -10px;
+.background{
+  background-image: url("/home/erick/Documents/project-2/image/landing.jpg");
 }
 .happy{
   align-items: center;
@@ -42,8 +59,21 @@
   padding-right: 200px;
 }
 .one:Hover{
-  font-size: 20px;
+  font-size: 30px;
   background-color: orange;
+  padding-left: 1em;
+
+}
+.one{
+  font-size: 45px;
+  background-color: grey;
+
+}
+.two{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 1em;
+    background-image: url("/home/erick/Documents/project-2/image/landing.jpg");
 }
 .two:Hover{
   font-size: 30px;
